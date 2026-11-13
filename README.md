@@ -14,7 +14,14 @@
   <img src="https://img.shields.io/badge/Language-Kotlin%202.0-purple.svg" alt="Kotlin">
   <img src="https://img.shields.io/badge/UI-Jetpack%20Compose%20%2F%20Material%203-blueviolet.svg" alt="Jetpack Compose">
   <img src="https://img.shields.io/badge/Media-AndroidX%20Media3%201.5-red.svg" alt="Media3">
-  <img src="https://img.shields.io/badge/Release-v1.0-orange.svg" alt="Release">
+  <a href="https://github.com/twishamp2024/Flash/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0-orange.svg" alt="Release"></a>
+</p>
+
+<p align="center">
+  <a href="docs/HUMAN_ARCHITECTURE_GUIDE.md"><b>📖 Human Architecture Guide</b></a> •
+  <a href="docs/AI_AGENT_CONTEXT.md"><b>🤖 AI Agent Vibecoding Spec</b></a> •
+  <a href="graphify-out/GRAPH_REPORT.md"><b>🕸️ Knowledge Graph Report</b></a> •
+  <a href="https://github.com/twishamp2024/Flash/releases/download/v1.0.0/Flash.apk"><b>⚡ Download Flash.apk</b></a>
 </p>
 
 ---
@@ -29,6 +36,19 @@ Flash provides a mobile-native editing experience comparable to professional mob
 - 🚫 **No Forced Watermarks:** Never stamps logos or watermarks onto your exported videos.
 - 💎 **No Subscriptions or Paywalls:** All features and export presets are permanently free and open.
 - ⚖️ **Permissive MIT License:** Clean-room independent architecture.
+
+---
+
+## 📚 Technical Documentation & Knowledge Graph
+
+For engineers and AI agents wishing to extend Flash or explore its inner workings:
+
+| Document | Target Audience | Focus & Contents |
+| :--- | :--- | :--- |
+| [**Human Architecture Guide**](docs/HUMAN_ARCHITECTURE_GUIDE.md) | Human Engineers & Architects | Exhaustive deep-dive into every subsystem: microsecond timeline clock math, command pattern rollback, OpenGL ES 3.0 GLSL shaders, Media3 pipeline, typography engine, on-device AI algorithms, and file-by-file directory guide. |
+| [**AI Agent Vibecoding Spec**](docs/AI_AGENT_CONTEXT.md) | AI Coding Assistants & LLMs | **Token-optimized specification** with high semantic density. Contains symbol tables, API signatures, system invariants, shader matrices, extension recipes, and critical gotchas. |
+| [**Knowledge Graph Report**](graphify-out/GRAPH_REPORT.md) | System Analysts & Contributors | Structural AST analysis of the Android source code: 697 nodes, 1,404 relationships, god nodes, cluster analysis, and cross-module bridges. |
+| [**Interactive Graph Visualization**](graphify-out/graph.html) | Visual Exploration | Standalone interactive HTML graph (open in browser) to explore code relationships, call hierarchies, and architectural modules. |
 
 ---
 
