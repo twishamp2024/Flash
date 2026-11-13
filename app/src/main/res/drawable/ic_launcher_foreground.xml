@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Drift stylized cut/wave mark in golden accent #FEB504 -->
+    <path
+        android:fillColor="#FEB504"
+        android:pathData="M34,30 L60,30 L74,54 L48,54 Z" />
+    <path
+        android:fillColor="#FEB504"
+        android:pathData="M48,54 L74,54 L60,78 L34,78 Z" />
+</vector>

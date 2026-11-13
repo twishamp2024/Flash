@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="drift_bg">#121216</color>
+    <color name="drift_surface">#1A1A22</color>
+    <color name="drift_surface_variant">#242430</color>
+    <color name="drift_accent">#FEB504</color>
+    <color name="drift_accent_dim">#CCA020</color>
+    <color name="drift_on_accent">#121216</color>
+    <color name="drift_text_primary">#F4F4F8</color>
+    <color name="drift_text_secondary">#9E9EA8</color>
+    <color name="drift_track_video">#2A3B4D</color>
+    <color name="drift_track_audio">#2E4A3E</color>
+    <color name="drift_track_text">#4A3A2E</color>
+</resources>
